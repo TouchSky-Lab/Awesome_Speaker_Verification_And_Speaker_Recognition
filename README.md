@@ -1,2 +1,11 @@
-# Awesome_Speaker_Verification_And_Speaker_Recognition
-Speaker_Verification, Speaker_Recognition
+# Speaker_Verification
+
+
+
+# Speaker_Recognition
+
+
+
+# References
+- https://github.com/ranchlai/awesome-speaker-embedding
+- 
