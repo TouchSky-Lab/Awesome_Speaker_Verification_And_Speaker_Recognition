@@ -1,0 +1,2 @@
+# Awesome_Speaker_Verification_And_Speaker_Recognition
+Speaker_Verification, Speaker_Recognition
